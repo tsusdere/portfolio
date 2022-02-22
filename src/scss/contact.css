@@ -1,12 +1,17 @@
 .contact {
-  background-color: red;
-  margin-top: 5%;
+  background-color: white;
+  margin-top: 24%;
   width: 50%;
   margin-left: 25%;
   text-align: center;
 }
 
 .stuff {
-  background-color: royalblue;
+  background-color: white;
+}
+
+.stuff a {
+  color: #666565;
+  text-decoration: none;
 }
 /*# sourceMappingURL=contact.css.map */

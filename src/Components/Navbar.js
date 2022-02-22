@@ -27,15 +27,8 @@ function Navbar() {
             <Link underline="hover" color="inherit" href="/resume">
               resume
             </Link>
-            <Link
-              underline="hover"
-              color="inherit"
-              href="/getting-started/installation/"
-            >
+            <Link underline="hover" color="inherit" href="/projects">
               projects
-            </Link>
-            <Link underline="hover" color="inherit" href="/contact">
-              contact
             </Link>
           </Breadcrumbs>
         </div>
